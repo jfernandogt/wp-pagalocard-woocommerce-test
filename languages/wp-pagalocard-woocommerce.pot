@@ -1,0 +1,154 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pagalo Card - WooCommerce Payment Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-17 23:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wp-pagalocard-woocommerce-admin.php:227
+#, php-format
+msgid ""
+"<strong>%s</strong> is enabled and WooCommerce is not forcing the SSL "
+"certificate on your checkout page. Please ensure that you have a valid SSL "
+"certificate and that you are <a href=\"%s\">forcing the checkout pages to be "
+"secured.</a>"
+msgstr ""
+
+#: wp-pagalocard-woocommerce.php:63
+msgid "Cardholder Name"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:65
+msgid "Credit card"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:68
+msgid "Description"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:56
+msgid "Enable / Disable"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:96
+msgid "Enable Test Mode"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:57
+msgid "Enable this payment gateway"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://e-globus.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/xicoofficial"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:16
+#: wp-pagalocard-woocommerce-admin.php:22
+msgid "Pagalo Card"
+msgstr ""
+
+#. Name of the plugin
+msgid "Pagalo Card - WooCommerce Payment Gateway"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:19
+msgid "Pagalo Card Payment Gateway Plug-in for WooCommerce"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:199
+msgid "PagaloCard complete payment."
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:85
+msgid "PagaloCard IdemEmpresa"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:80
+msgid "PagaloCard Public Key"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:75
+msgid "PagaloCard Secret Key"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:95
+msgid "PagaloCard Test Mode"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:90
+msgid "PagaloCard Token"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:192
+msgid "PagaloCard's Response was not get any data."
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:64
+#: wp-pagalocard-woocommerce-admin.php:70
+msgid "Payment title of checkout process."
+msgstr ""
+
+#: wp-pagalocard-woocommerce.php:49
+msgid "Settings"
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:71
+msgid "Successfully payment through credit card."
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:190
+msgid ""
+"There is issue for connectin payment gateway. Sorry for the inconvenience."
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:77
+msgid ""
+"This is the API Secret Key provided by PagaloCard when you signed up for an "
+"account."
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:87
+msgid ""
+"This is the IdemEmpresa provided by PagaloCard when you signed up for an "
+"account."
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:82
+msgid ""
+"This is the Public Key provided by PagaloCard when you signed up for an "
+"account."
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:98
+msgid "This is the test mode of gateway."
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:92
+msgid ""
+"This is the Token provided by PagaloCard when you signed up for an account."
+msgstr ""
+
+#: wp-pagalocard-woocommerce-admin.php:62
+msgid "Title"
+msgstr ""
+
+#. Description of the plugin
+msgid "WooCommerce custom payment gateway integration with PagaloCard."
+msgstr ""
+
+#. Author of the plugin
+msgid "XicoOfficial"
+msgstr ""
